@@ -1,0 +1,17 @@
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\bin\Debug\net6.0-windows\pjCaso42.exe
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\bin\Debug\net6.0-windows\pjCaso42.deps.json
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\bin\Debug\net6.0-windows\pjCaso42.runtimeconfig.json
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\bin\Debug\net6.0-windows\pjCaso42.dll
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\bin\Debug\net6.0-windows\pjCaso42.pdb
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\pjCaso42.csproj.AssemblyReference.cache
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\pjCaso42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\pjCaso42.AssemblyInfoInputs.cache
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\pjCaso42.AssemblyInfo.cs
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\pjCaso42.csproj.CoreCompileInputs.cache
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\pjCaso42.dll
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\refint\pjCaso42.dll
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\pjCaso42.pdb
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\pjCaso42.genruntimeconfig.cache
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\ref\pjCaso42.dll
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\pjCaso42.Form1.resources
+C:\Users\Misae\Downloads\ProyectoC#\pjCaso42\pjCaso42\obj\Debug\net6.0-windows\pjCaso42.csproj.GenerateResource.cache
